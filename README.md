@@ -10,5 +10,5 @@ Follow these simple steps to interact with the tool:
 
 3. **Ask a Question**: After processing the article, ask any question related to the content for a precise answer.
 
-#### To open news app without NEWSAPI KEY - use streamlit run newsapp.py 
-#### To open news app with NEWSAPI KEY - use streamlit run newsapp3.py 
+#### To open news app without NEWSAPI KEY - use **streamlit run newsapp.py** 
+#### To open news app with NEWSAPI KEY - use **streamlit run newsapp3.py** 
