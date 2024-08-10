@@ -1,2 +1,2 @@
-googleapi-AIzaSyBrUX1kIbSs-JddqlxirnzJvFqNOlZ6IOo
-newsapi-cf651e2b1e714401877e2d56c02de8da
+googleapi-use your google api key
+newsapi-use your news api key
