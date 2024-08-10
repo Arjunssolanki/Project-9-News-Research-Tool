@@ -9,7 +9,6 @@ Follow these simple steps to interact with the tool:
 2. **Enter News URL or Search Query**: Provide the URL of a news article to fetch and analyze its content or use a search query to find relevant news articles.
 
 3. **Ask a Question**: After processing the article, ask any question related to the content for a precise answer.
-""")
 
 #### To open news app without NEWSAPI KEY - use streamlit run newsapp.py 
 #### To open news app with NEWSAPI KEY - use streamlit run newsapp3.py 
