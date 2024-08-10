@@ -1,0 +1,2 @@
+# Project-9 News Research Tool
+ This tool is built using the Retrieval-Augmented Generation (RAG) framework, leveraging Google's Generative AI model Gemini-PRO. It fetches the content from a news article URL, processes it to create a searchable vector store, and generates accurate answers to user queries. This advanced approach ensures high-quality, contextually relevant responses for an efficient and effective user experience.
